@@ -46,6 +46,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Production
 
 [Preferences]
 PrefsVaultGUID=
@@ -152,6 +153,59 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document7]
+DocumentPath=RF frontend.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NNUYAVNG
+
+[Document8]
+DocumentPath=USB & power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DGGNDPNF
+
+[ProjectVariant1]
+UniqueID=B9742C70-16D0-42FE-882A-B791876C0444
+Description=Production
+AllowFabrication=0
+ParameterCount=0
+VariationCount=11
+Variation1=Designator=C?|UniqueId=\CEWSJWKU|Kind=1|AlternatePart= 
+Variation2=Designator=C?|UniqueId=\XMBGSNRY|Kind=1|AlternatePart= 
+Variation3=Designator=C?|UniqueId=\LKWBUULV|Kind=1|AlternatePart= 
+Variation4=Designator=C?|UniqueId=\UUFMOGJT|Kind=1|AlternatePart= 
+Variation5=Designator=JP?|UniqueId=\HBHHMTAB|Kind=1|AlternatePart= 
+Variation6=Designator=JP?|UniqueId=\WCKCGWTQ|Kind=1|AlternatePart= 
+Variation7=Designator=JP1|UniqueId=\EAMWJGPP|Kind=1|AlternatePart= 
+Variation8=Designator=C?|UniqueId=\XTUOHIYF|Kind=1|AlternatePart= 
+Variation9=Designator=C?|UniqueId=\ARIDAPOL|Kind=1|AlternatePart= 
+Variation10=Designator=C?|UniqueId=\DEXBSJKO|Kind=1|AlternatePart= 
+Variation11=Designator=C?|UniqueId=\PUTXCFCQ|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Configuration1]
 Name=Sources
@@ -728,41 +782,11 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
+OutputType10=Web ReviewOutputName
+OutputName10=Web Review Data
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Orcad v7 Capture Design
-OutputName12=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=P-CAD ASCII
-OutputName13=P-CAD ASCII (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD V16 Schematic Design
-OutputName14=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=SiSoft
-OutputName15=SiSoft (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Web ReviewOutputName
-OutputName16=Web Review Data
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
