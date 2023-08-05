@@ -188,6 +188,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DGGNDPNF
 
+[Document9]
+DocumentPath=STM32WLE5CBU6 dev board.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=B9742C70-16D0-42FE-882A-B791876C0444
 Description=Production
